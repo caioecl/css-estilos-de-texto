@@ -1,0 +1,55 @@
+.fundo-transform {
+    background-color: rgba(163, 255, 198, 0.616);
+}
+
+.fundo-alinhamento {
+    background-color: rgba(246, 174, 255, 0.616);
+}
+
+.fundo-decoration {
+    background-color: rgba(rgba(175, 190, 241, 0.733));
+}
+
+.alinhado-esquerda {
+    text-align: left;
+}
+
+.alinhado-direita {
+    text-align: right;
+}
+
+.alinhado-centro {
+    text-align: center;
+}
+
+.alinhado-justificado {
+    text-align: justify;
+}
+
+.texto-uppercase {
+    text-transform: uppercase;
+}
+
+.texto-capitalize {
+    text-transform: capitalize;
+}
+
+.texto-underline {
+    text-decoration: underline;
+}
+
+.texto-linethrough {
+    text-decoration: line-through;
+}
+
+.sem-decoration {
+    text-decoration: none;
+}
+
+.sombra-de-texto {
+    text-shadow: 2px 2px 2px rgb(243, 127, 127);
+}
+
+.altura-entre-linhas {
+    line-height: 40px;
+}
